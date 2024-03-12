@@ -1,4 +1,5 @@
 ### Running the app
+![image](https://github.com/lucasjotap/timeKeeper/assets/98364965/285c828d-83b2-42fb-ae06-f1a2e31ca879)
 
 1. Ensure you have `npm` installed.
 
